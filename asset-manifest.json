@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pot-money-react-website-1/static/css/main.e221251a.chunk.css",
+    "main.js": "/pot-money-react-website-1/static/js/main.9b8e74fb.chunk.js",
+    "main.js.map": "/pot-money-react-website-1/static/js/main.9b8e74fb.chunk.js.map",
+    "runtime-main.js": "/pot-money-react-website-1/static/js/runtime-main.f9c1cfd9.js",
+    "runtime-main.js.map": "/pot-money-react-website-1/static/js/runtime-main.f9c1cfd9.js.map",
+    "static/css/2.558413a2.chunk.css": "/pot-money-react-website-1/static/css/2.558413a2.chunk.css",
+    "static/js/2.80797e7b.chunk.js": "/pot-money-react-website-1/static/js/2.80797e7b.chunk.js",
+    "static/js/2.80797e7b.chunk.js.map": "/pot-money-react-website-1/static/js/2.80797e7b.chunk.js.map",
+    "index.html": "/pot-money-react-website-1/index.html",
+    "static/css/2.558413a2.chunk.css.map": "/pot-money-react-website-1/static/css/2.558413a2.chunk.css.map",
+    "static/css/main.e221251a.chunk.css.map": "/pot-money-react-website-1/static/css/main.e221251a.chunk.css.map",
+    "static/js/2.80797e7b.chunk.js.LICENSE.txt": "/pot-money-react-website-1/static/js/2.80797e7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9c1cfd9.js",
+    "static/css/2.558413a2.chunk.css",
+    "static/js/2.80797e7b.chunk.js",
+    "static/css/main.e221251a.chunk.css",
+    "static/js/main.9b8e74fb.chunk.js"
+  ]
+}
